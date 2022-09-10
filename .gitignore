@@ -139,3 +139,6 @@ dmypy.json
 
 # The settings of container
 .devcontainer
+
+# vscode settings
+.vscode
